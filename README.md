@@ -1,7 +1,7 @@
 # Ranger Danger Install
-{{{
+```
 git clone https://github.com/devonmurphy/RangerDanger
-}}}
+```
 
 For Mac: open application.macosx/zoohackathon_game
 
