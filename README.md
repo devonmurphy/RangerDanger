@@ -1,6 +1,7 @@
-# RangerDanger
-
-Download the zip file and uncompress it.
+# Ranger Danger Install
+{{{
+git clone https://github.com/devonmurphy/RangerDanger
+}}}
 
 For Mac: open application.macosx/zoohackathon_game
 
